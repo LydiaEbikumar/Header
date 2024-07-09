@@ -1,0 +1,14 @@
+ul{
+    list-style-type:none;
+    background-color: blueviolet;
+    padding: 50px;
+    
+}
+
+li{
+    display: inline;
+     margin: 20px;
+     padding-left: 150px;
+     font-size: x-large;
+     font-weight: bolder;
+}
